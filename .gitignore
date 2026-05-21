@@ -1,0 +1,15 @@
+# IDE / Agent configs
+.antigravitycli/
+.qodo/
+
+# Simulation directories and files
+work/
+transcript
+vsim.wlf
+*.log
+*.key
+*.vcd
+
+# OS generated files
+.DS_Store
+Thumbs.db
